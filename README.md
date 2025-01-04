@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Asad 👋
 
 - 🔭 I’m currently working as a Software Engineering Intern for [StackAdapt](https://stackadapt.com)
-- 📫 How to reach me: https://ca.linkedin.com/in/asad-mirza-40bb36291
+- 📫 How to reach me: My [Linkedin](https://ca.linkedin.com/in/asad-mirza-40bb36291)
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
