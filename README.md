@@ -1,6 +1,6 @@
 ## Hi there, I'm Asad, a CS Sophomore at University of Toronto 👋
 
-- 🔭 I’m currently working as a Software Engineering Intern for [StackAdapt](https://stackadapt.com)
+- 🔭 Just finished a term as a Software Engineering Intern for [StackAdapt](https://stackadapt.com)
 - 📫 How to reach me: My [Linkedin](https://ca.linkedin.com/in/asad-mirza-40bb36291)
 
 ## Languages
