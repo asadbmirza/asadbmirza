@@ -1,7 +1,7 @@
 ## Hi there, I'm Asad, a CS Junior at University of Toronto 👋
 
 - 🔭 Currently working as a Returning Software Engineering Intern for [StackAdapt](https://stackadapt.com)
-- 📫 How to reach me: My [Linkedin](https://ca.linkedin.com/in/asad-mirza-40bb36291)
+- 📫 How to reach me: My [Personal Website](https://asadbmirza.github.io/Asad-Mirza-Portfolio/)
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
