@@ -1,6 +1,6 @@
 ## Hi there, I'm Asad, a CS Junior at University of Toronto 👋
 
-- 🔭 Currently working as a Returning Software Engineering Intern for [StackAdapt](https://stackadapt.com)
+- 🔭 Just wrapped up a role as a Returning Software Engineering Intern for [StackAdapt](https://stackadapt.com), currently seeking 2026 internships
 - 📫 How to reach me: My [Personal Website](https://asadbmirza.github.io/Asad-Mirza-Portfolio/)
 
 ## Languages
